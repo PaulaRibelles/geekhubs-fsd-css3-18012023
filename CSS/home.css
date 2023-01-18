@@ -1,0 +1,13 @@
+table{
+    border: solid black 1px;
+    border-collapse: collapse;
+}
+th{
+    background-color: bisque;
+}
+td{
+    border: solid black 1px;
+}
+.col-1{
+    width: 50px;
+}
